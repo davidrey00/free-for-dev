@@ -1529,6 +1529,7 @@ Update Time, five active automations, webhooks.
   * [ImageEngine](https://imageengine.io/) – ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
   * [DocsParse](https://docsparse.com/) – GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.
   * [VaocherApp QR Code Generator](https://www.vaocherapp.com/qr-code-generator) – Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...
+  * [WebPtoPNGHero](https://webptopnghero.com/) - A free online converter for transforming images from WebP to PNG. No registration required and supports batch processing. Completely free to use.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
